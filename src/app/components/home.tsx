@@ -93,7 +93,7 @@ export default function HomeComponent() {
       {/* Image Section */}
       <div className="h-[300px] sm:w-[250px] md:w-[300px] lg:w-[300px] bg-gray-100">
         <img
-          src='/home_page/image-4.png'
+          src='home_page/image-4.png'
           alt='image'
           className="w-full h-full object-cover"
         />
@@ -113,7 +113,7 @@ export default function HomeComponent() {
       {/* Image Section */}
       <div className="h-[300px] sm:w-[250px] md:w-[300px] lg:w-[300px] bg-gray-100">
         <img
-          src='/home_page/image-5.png'
+          src='home_page/image-5.png'
           alt='{name}'
           className="w-full h-full object-cover"
         />
@@ -133,7 +133,7 @@ export default function HomeComponent() {
       {/* Image Section */}
       <div className="h-[300px] sm:w-[250px] md:w-[300px] lg:w-[300px] bg-gray-100">
         <img
-          src='/home_page/image-6.png'
+          src='home_page/image-6.png'
           alt='{name}'
           className="w-full h-full object-cover"
         />
@@ -153,7 +153,7 @@ export default function HomeComponent() {
       {/* Image Section */}
       <div className="h-[300px] sm:w-[250px] md:w-[300px] lg:w-[300px] bg-gray-100">
         <img
-          src='/home_page/image-7.png'
+          src='home_page/image-7.png'
           alt='image'
           className="w-full h-full object-cover"
         />
@@ -221,7 +221,7 @@ export default function HomeComponent() {
          <div className="relative w-full h-[300px]">
       {/* Image */}
       <img
-        src="/home_page/image-9.png" // Replace with your image path
+        src="home_page/image-9.png" // Replace with your image path
         alt="Example"
         className="object-cover w-full h-full rounded-lg shadow-lg"
       />
@@ -234,7 +234,7 @@ export default function HomeComponent() {
     <div className="relative w-full h-[300px]">
       {/* Image */}
       <img
-        src="/home_page/image-10.png" // Replace with your image path
+        src="home_page/image-10.png" // Replace with your image path
         alt="Example"
         className="object-cover w-full h-full rounded-lg shadow-lg"
       />
@@ -246,7 +246,7 @@ export default function HomeComponent() {
     <div className="relative w-full h-[300px]">
       {/* Image */}
       <img
-        src="/home_page/image-11.png" // Replace with your image path
+        src="home_page/image-11.png" // Replace with your image path
         alt="Example"
         className="object-cover w-full h-full rounded-lg shadow-lg"
       />
