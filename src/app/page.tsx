@@ -1,3 +1,5 @@
+import Hero from "./components/hero";
+import HomeComponent from "./components/home";
 
 
 export default function Home (){
@@ -7,8 +9,8 @@ export default function Home (){
     <>
 
 
-
-
+<Hero/>
+<HomeComponent/>
 
 
     </>
